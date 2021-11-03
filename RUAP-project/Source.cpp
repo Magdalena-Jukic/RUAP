@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 
 int main() {
-	std::cout << "Pozdrav iz aplikacije od Magdalene Jukić i broj indeksa";
+
+	std::cout << "Pozdrav iz aplikacije od Magdalene Jukić";
+
 }
